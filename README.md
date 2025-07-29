@@ -1,4 +1,7 @@
 ---
+
+---
+
 job_unemployment_skill_trends/
 │
 ├── job_market_unemployment_trends.csv     # Dataset used
@@ -6,7 +9,6 @@ job_unemployment_skill_trends/
 ├── Unemployment_Skill_Analysis.pdf        # Final summary PDF (optional)
 ├── charts/                                # Folder with exported plots (optional)
 └── README.md                              # This file
----
 
 🔍 Key Analyses Performed
 Top In-Demand Skills – Identified both combined and individual skills like Python, SQL, and ML.
