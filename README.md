@@ -5,7 +5,7 @@ This project analyzes job market trends by exploring how in-demand skills, job p
 ---
 
 ## 📁 Project Structure
-
+```
 unemployment_skill_trends/
 │
 ├── job_market_unemployment_trends.csv # Dataset used
@@ -13,7 +13,7 @@ unemployment_skill_trends/
 ├── Unemployment_Skill_Analysis.pdf # Final summary PDF (optional)
 ├── charts/ # Folder with exported plots (optional)
 └── README.md # This file
-
+```
 
 ---
 
